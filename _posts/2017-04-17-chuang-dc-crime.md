@@ -35,7 +35,9 @@ As to the locations of the crimes this year, there were some business areas that
 
 Most crimes in these business districts happened at night as the statistics showed that the evening shift of the police, from 3 p.m. to 11p.m., received the most crime cases, while the midnight shift (11 p.m.- 7 a.m.) tended to get the least.
 
-| Ward   | Crime Incidents | ![](https://planning.dc.gov/sites/default/files/dc/sites/op/page_content/images/wards_small.png)
+![](https://planning.dc.gov/sites/default/files/dc/sites/op/page_content/images/wards_small.png)
+
+| Ward   | Crime Incidents |
 |--------|-----------------|
 |  2     |  1543           |
 |  6     |  1391           |
