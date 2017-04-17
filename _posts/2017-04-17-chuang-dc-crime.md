@@ -7,6 +7,8 @@ author: Aileen Chuang
 
 _This is an analysis of a [dataset](http://opendata.dc.gov/datasets/crime-incidents-in-2017) from the District of Columbia Metropolitan Police Department._
 
+_[Spreadsheet](https://docs.google.com/spreadsheets/d/1yGdFzR3RH5_ScF9JZeEyym2S6YM4zcEUrr4GXh-rkj0/edit?usp=sharing)_
+
 The District of Columbia Metropolitan Police Department reported that the capital had 8,540 crime incidents as of the first week of April this year.
 
 In the first three months, Washington had 7,398 crime incidents, which was similar to the number of incidents appeared in the first quarter of 2016 – 7,482, according to the MPD data. A total of 35,252 cases were reported in 2016.
