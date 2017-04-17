@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "City of Baltimore Employee Salary Analysis"
-date:   2017-17-04
+date:   2017-04-17
 author: Karys Belger
 
 ---
