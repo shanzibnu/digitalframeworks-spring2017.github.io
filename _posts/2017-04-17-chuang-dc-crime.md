@@ -17,15 +17,15 @@ Among other crime offenses – **robbery** reported to have 570 cases, **assault
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1yGdFzR3RH5_ScF9JZeEyym2S6YM4zcEUrr4GXh-rkj0/pubchart?oid=1433030493&amp;format=interactive"></iframe>
 
-So far this year, **the violent crimes**, including homicide, sex abuse, assault with dangerous weapon and robbery, decreased 24 percent during the same period in last year; while **the property crimes**, including burglary, theft and arson, were down four percent.
+So far this year, **the violent crimes**, including homicide, sex abuse, assault with dangerous weapon, and robbery, decreased 24 percent during the same period in last year; while **the property crimes**, including burglary, theft, and arson, were down four percent.
 
-Washington was known as the “murder capital” in 1990s due to its large number of homicide incidents.
+Washington was known as the “murder capital” in the 1990s due to its large number of homicide incidents.
 
 In 1990, Washington peaked its number of slayings to 474, according to the Washington Post. However, the crime rate started to fall as the economy improved and government’s attentions to the issue.
 
 Last year, 136 homicide cases were filed, representing a 17 percent decline compared to the previous year.
 
-The police’s clearance rate on homicide incidents has maintained at a level above 60 percent in the past decade or so – the police has solved 62 percent of the cases in 2015, and 60.7 percent of the 196 homicides in 2005 – according to the [MPD](https://mpdc.dc.gov/page/homicide-closure-rates).
+The police’s clearance rate on homicide incidents has maintained at a level above 60 percent in the past decade or so – the police solved 62 percent of the cases in 2015, and 60.7 percent of the 196 homicides in 2005 – according to the [MPD](https://mpdc.dc.gov/page/homicide-closure-rates).
 
 As to the locations of the crimes this year, there were some business areas that reported to have more crimes than the other.
 
@@ -35,9 +35,7 @@ As to the locations of the crimes this year, there were some business areas that
 
 Most crimes in these business districts happened at night as the statistics showed that the evening shift of the police, from 3 p.m. to 11p.m., received the most crime cases, while the midnight shift (11 p.m.- 7 a.m.) tended to get the least.
 
-![](https://planning.dc.gov/sites/default/files/dc/sites/op/page_content/images/wards_small.png)
-
-| Ward   | Crime Incidents |
+| Ward   | Crime Incidents |![](https://planning.dc.gov/sites/default/files/dc/sites/op/page_content/images/wards_small.png)
 |--------|-----------------|
 |  2     |  1543           |
 |  6     |  1391           |
