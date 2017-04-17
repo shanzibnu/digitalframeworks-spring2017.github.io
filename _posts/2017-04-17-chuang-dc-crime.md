@@ -49,3 +49,5 @@ Most crimes in these business districts happened at night as the statistics show
 |  3     |  423            |
 
 Around the central part of Washington topped the crime list among the eight wards, with 1,543 incidents happened in the Ward 2, 1,391 in the Ward 6, 1,211 in the Ward 5, and 1,199 in the Ward 1.
+
+Map credit: Office of Planning, DC.gov
