@@ -13,7 +13,7 @@ In the first three months, Washington had 7,398 crime incidents, which was simil
 
 **Theft** is the most common crime handled by the police so far this year, with 3,759 general theft cases, 2,585 theft incidents happened from within a vehicle, and 556 motor vehicle theft cases reported as of April 10.
 
-Among other crime offenses – **robbery** reported to have 570 cases, **assaults with dangerous weapon** had 529 cases, **burglary** had 436, **sex abuse** had 72, 32 cases reported to be **homicide**, and one case was **arson**.
+Among other crime offenses – 570 cases were related to **robbery**, 529 cases were **assaults with dangerous weapon**, 436 were **burglary**, 72 incidents were **sex abuse**, 32 cases reported to be **homicide**, and one case was **arson**.
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1yGdFzR3RH5_ScF9JZeEyym2S6YM4zcEUrr4GXh-rkj0/pubchart?oid=1433030493&amp;format=interactive"></iframe>
 
@@ -25,11 +25,11 @@ In 1990, Washington peaked its number of slayings to 474, according to the Washi
 
 Last year, 136 homicide cases were filed, representing a 17 percent decline compared to the previous year.
 
-The police’s clearance rate on homicide incidents has maintained at a level above 60 percent in the past decade or so – the police solved 62 percent of the cases in 2015, and 60.7 percent of the 196 homicides in 2005 – according to the [MPD](https://mpdc.dc.gov/page/homicide-closure-rates).
+The police’s clearance rate on homicide incidents has maintained at a level above 60 percent in the past decade or so – the police solved 62 percent of such cases in 2015, and 60.7 percent of the 196 homicides in 2005 – according to the [MPD](https://mpdc.dc.gov/page/homicide-closure-rates).
 
 As to the locations of the crimes this year, there were some business areas that reported to have more crimes than the other.
 
-**Downtown** had 520 crime in the first four months, the highest in the 10 [official](https://dslbd.dc.gov/service/business-improvement-districts-bids) Business Improvement Districts in Washington, following by the Capitol Hill (180), Georgetown (168), Golden Triangle (151), NoMa (129), Southwest (107), Mount Vernon Triangle (96), Capitol Riverfront (76), Adams Morgan (70) and Anacostia (40).
+**Downtown** had 520 crimes in the first four months, the highest in the 10 [official](https://dslbd.dc.gov/service/business-improvement-districts-bids) Business Improvement Districts in Washington, following by the Capitol Hill (180), Georgetown (168), Golden Triangle (151), NoMa (129), Southwest (107), Mount Vernon Triangle (96), Capitol Riverfront (76), Adams Morgan (70) and Anacostia (40).
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1yGdFzR3RH5_ScF9JZeEyym2S6YM4zcEUrr4GXh-rkj0/pubchart?oid=1807364030&amp;format=interactive"></iframe>
 
