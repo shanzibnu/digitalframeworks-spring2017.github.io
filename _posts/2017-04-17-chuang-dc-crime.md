@@ -5,7 +5,7 @@ date:   2017-04-17
 author: Aileen Chuang
 ---
 
-_This is an analysis of a dataset from the District of Columbia Metropolitan Police Department._
+_This is an analysis of a [dataset](http://opendata.dc.gov/datasets/crime-incidents-in-2017) from the District of Columbia Metropolitan Police Department._
 
 The District of Columbia Metropolitan Police Department reported that the capital had 8,540 crime incidents as of the first week of April this year.
 
