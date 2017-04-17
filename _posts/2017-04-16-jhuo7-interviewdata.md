@@ -15,6 +15,7 @@ Surplus on of social security has been declining since 2008, while its mandatory
 The trend is corroborated by [CBO’s report](mailto:https://www.cbo.gov/publication/52298) saying that the Social Security Trust Fund could be insolvent at 2029 if it pays out at the current rate, and when that happens, benefits would have to take a 29 percent cut in 2030 to keep it from going.
 
 ![](https://cloud.githubusercontent.com/assets/26884424/25079635/20d0bfe6-230c-11e7-80fe-7c92f98b6d48.png)
+
 Social Security surplus has seen a steadily declining trend since 2008
 ![](https://cloud.githubusercontent.com/assets/26884424/25079642/2dac3560-230c-11e7-80fc-52cec6748a0a.png)
 
