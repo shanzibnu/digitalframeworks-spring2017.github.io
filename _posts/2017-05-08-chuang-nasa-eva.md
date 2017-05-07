@@ -26,9 +26,9 @@ While in Russia, the number of the spacewalk was higher in the 1990s, but not so
 [Spreadsheet](https://docs.google.com/spreadsheets/d/11MvR4YgIegRUpcJHkUipI4sYjuEit45n3m5WqrKebcs/edit?usp=sharing)
 
 API queries
-Overall number:
+1. Overall number:
 https://data.nasa.gov/resource/eva.csv?$group=country&$select=country, count(*) as total
-USA by year:
+2. USA by year:
 https://data.nasa.gov/resource/eva.csv?$select=date_trunc_y(date) as year, count(*) as total&$group=year&$where=country='USA'
-Russia by year:
+3. Russia by year:
 https://data.nasa.gov/resource/eva.csv?$select=date_trunc_y(date) as year, count(*) as total&$group=year&$where=country='Russia'
