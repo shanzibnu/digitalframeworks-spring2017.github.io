@@ -23,9 +23,12 @@ While in Russia, the number of the spacewalk was higher in the 1990s, but not so
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/11MvR4YgIegRUpcJHkUipI4sYjuEit45n3m5WqrKebcs/pubchart?oid=1084628964&amp;format=interactive"></iframe>
 
-_[Spreadsheet](https://docs.google.com/spreadsheets/d/11MvR4YgIegRUpcJHkUipI4sYjuEit45n3m5WqrKebcs/edit?usp=sharing)_
+[Spreadsheet](https://docs.google.com/spreadsheets/d/11MvR4YgIegRUpcJHkUipI4sYjuEit45n3m5WqrKebcs/edit?usp=sharing)
 
-_API queries
-[Overall number](https://data.nasa.gov/resource/eva.csv?$group=country&$select=country, count(*) as total)
-[USA by year](https://data.nasa.gov/resource/eva.csv?$select=date_trunc_y(date) as year, count(*) as total&$group=year&$where=country='USA')
-[Russia by year](https://data.nasa.gov/resource/eva.csv?$select=date_trunc_y(date) as year, count(*) as total&$group=year&$where=country='Russia')_
+API queries
+Overall number:
+https://data.nasa.gov/resource/eva.csv?$group=country&$select=country, count(*) as total
+USA by year:
+https://data.nasa.gov/resource/eva.csv?$select=date_trunc_y(date) as year, count(*) as total&$group=year&$where=country='USA'
+Russia by year:
+https://data.nasa.gov/resource/eva.csv?$select=date_trunc_y(date) as year, count(*) as total&$group=year&$where=country='Russia'
