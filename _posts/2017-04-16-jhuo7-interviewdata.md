@@ -7,10 +7,13 @@ author: Jingnan Huo
 # Interviewing data – U.S. Federal budget from 2000 – 2016; NASA
 
 ## Introducing the Dataset
+
 The Congressional Budget Office’s data on US Federal Budget from 2000-2016 shows the U.S. federal government’s revenue source, and where it spends its money. All the data are numerical and are chronological.
 
-##Major finding
+## Major finding
+
 **Social security seems to be having funding trouble**
+
 Surplus on of social security has been declining since 2008, while its mandatory outlay is steadily growing and remains the biggest expenditure amongst mandatory outlays. With an aging population, the outlay will further increase while the surplus will not significantly increase.
 The trend is corroborated by [CBO’s report](mailto:https://www.cbo.gov/publication/52298) saying that the Social Security Trust Fund could be insolvent at 2029 if it pays out at the current rate, and when that happens, benefits would have to take a 29 percent cut in 2030 to keep it from going.
 
@@ -20,12 +23,15 @@ Social Security surplus has seen a steadily declining trend since 2008
 ![](https://cloud.githubusercontent.com/assets/26884424/25079642/2dac3560-230c-11e7-80fc-52cec6748a0a.png)
 
 **Public debt rises consistently despite ups and downs in total deficit**
+
 While the federal deficit has been through ups and downs before the financial crisis, took a plunge during the crisis and has since slowly recovered, the amount of debt being held by the public seemed to have largely ignored the economic cycle.
 ![](https://cloud.githubusercontent.com/assets/26884424/25079641/289bc6da-230c-11e7-8924-5cc00a42d878.png)
 
 Debt held by the public makes up 77 percent of GDP now, more than double from the 35.3 percent in 2007. It could be a reflection of government stimulus measures (issuing lots of government bonds) after the crisis, and it also raises the question of how the government is going to pay back all this debt.
 ![](https://cloud.githubusercontent.com/assets/26884424/25079644/30b064a2-230c-11e7-9d94-c6bc5697d2c8.png)
+
 **Corporate tax income has increased since crisis, and while payroll taxes is gaining weight as a revenue source, individual income tax remains the largest revenue source.**
+
 ![](https://cloud.githubusercontent.com/assets/26884424/25079647/34fb22ea-230c-11e7-8e9f-b2d3c554590d.png)
 
 Link to the dataset and the charts is [here](https://docs.google.com/spreadsheets/d/1O41zR845E1UrDIj0MCf-wJkUeObsuKotNAUXtEqwVFI/edit?usp=sharing)
