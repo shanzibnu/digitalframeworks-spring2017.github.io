@@ -7,7 +7,7 @@ author: Jasmine Minor
 
 _This is an analysis of a [dataset](https://data.oaklandnet.com/Public-Safety/CrimeWatch-Maps-Past-90-Days/ym6k-rx7a/data) from the City of Oakland Datasets_
 
-This week, I chose to explore crime committed in the last 90 days in Oakland, California. I decided to begin with how many different types of crime had been reported. After filtering through some of the datasheet, I found an interest in domestic violence cases. 
+This week, I chose to explore crime committed in the last 90 days in Oakland, California. I decided to begin with how many different types of crime had been reported. After filtering through some of the datasheet, I found an interest in domestic violence cases.
 
 Domestic violence led the way with 659 reports in the last 90 days.
 
