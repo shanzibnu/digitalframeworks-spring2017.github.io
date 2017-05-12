@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "City of Baltimore Crime Analysis Analysis"
-date:   2017-04-08
+date:   2017-05-08
 author: Karys Belger
 ---
 For this data query with postman, I chose to stick with a city and dataset I was already somewhat familiar with. With the last project, I used the [data from the city of Baltimore](https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij/data#SaveAs), much like I did for this class. The difference I that this time I focused on crime, more specifically, the crimes that have taken place in the city of Baltimore within a specific stretch of time. Much like the city salaries, the database of crime for the city of Baltimore is extremely large. In order to sort through the data effectively, I had to filter the information before I could even export it from the original data set online. In this case, since I want information about the number of homicides in the city, that’s what I’m going to focus on. It’s important to note that the large amount of data was not a problem for postman, only for Excel and Google Sheets when I was trying to interview the data like we had done in previous assignments. For this, I filtered on of the columns in the data set before exporting the information. I filtered out all of the crimes that weren’t homicides. This gave me every homicide in the city of Baltimore with every other column that was originally included in the dataset.
