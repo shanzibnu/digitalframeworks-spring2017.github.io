@@ -1,9 +1,10 @@
-
+---
 layout: post
 title:  "Critique of FiveThirtyEight"
 date:   2017-04-09
 author: Nia Prater
 ---
+
 For my critique, I took a look at a piece from FiveThirtyEight, one of the leading sites for data and polls.
 The piece in question is entitled ["Nuking The Filibuster May Hurt Republicans In The Long Run"](https://fivethirtyeight.com/features/nuking-the-filibuster-may-hurt-republicans-in-the-long-run/),
 which was written by FiveThirtyEight's founder Nate Silver. In the article, Silver examines the recent action undertaken by Senate Republicans to get rid of the filibuster in nomination debates in order to
