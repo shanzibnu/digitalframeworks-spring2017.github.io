@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Snowden Files Decoded Critiquw"
-date:   2017-10-04
+title:  "Snowden Files Decoded Critique"
+date:   2017-04-10
 author: Karys Belger
 image:
 image_credit:
