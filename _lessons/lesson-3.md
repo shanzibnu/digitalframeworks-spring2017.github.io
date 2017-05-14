@@ -13,16 +13,30 @@ TBD.
 
 ## Assignment
 
-TBD.
+Read (In Defense of Interactive Graphics)[https://www.vis4.net/blog/posts/in-defense-of-interactive-graphics/].
 
 ## Lesson
 
-### Data formats
+### Searching for data
+
+* Advanced search operators (http://libguides.mit.edu/c.php?g=176061&p=1159512)
+* Open data portals (discussed last week)
+* FOIA - Muckrock, also doing it by hand
 
 ### Thought exercise: Creating a database
 
-### Searching for data
+Riff.
 
-* Advanced search operators
-* Open data portals
-* FOIA
+### Data formats
+
+* CSV - Comma separated values
+* JSON - Javascript object notation
+* XML - Extensible markup language
+
+### Data standards
+
+Oh boy!
+
+### Random technical bits
+
+
