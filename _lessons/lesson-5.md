@@ -13,6 +13,8 @@ TBD.
 
 ## Assignment
 
+Read [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/).
+
 TBD. Will be based on data from previous week's assignment though. Will also involve getting a full-stack set up on student systems.
 
 ## Lesson
