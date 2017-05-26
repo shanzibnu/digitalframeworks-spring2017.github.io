@@ -13,7 +13,7 @@ Second part of notebooks lesson.
 
 ## Assignment
 
-Due May 30, 2017.
+Due May 31, 2017.
 
 ### If you didn't make it to any classes
 
