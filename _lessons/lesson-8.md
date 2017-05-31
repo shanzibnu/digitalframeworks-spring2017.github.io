@@ -77,7 +77,7 @@ At bare minimum, you should run some value counts on categorical / descriptive c
 
 ```my_data.COLUMN_NAME.value_counts().reset_index()```
 
-For example, if you were looking at food inspections and had filtered the dataset, you could do something like ```failed_inspections.value_counts().reset_index()``` to see the business with the most failed inspections.
+For example, if you were looking at food inspections and had filtered the dataset, you could do something like `failed_inspections.value_counts().reset_index()` to see the business with the most failed inspections.
 
 If you have a numeric column, you should try:
 
