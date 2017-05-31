@@ -75,9 +75,11 @@ Finally, use the techniques described in class and the lesson to inspect columns
 
 At bare minimum, you should run some value counts on categorical / descriptive columns, e.g.
 
-```my_data.COLUMN_NAME.value_counts().reset_index()```
+```
+my_data.COLUMN_NAME.value_counts().reset_index()
+```
 
-For example, if you were looking at food inspections and had filtered the dataset, you could do something like ```failed_inspections.value_counts().reset_index()``` to see the business with the most failed inspections.
+For example, if you were looking at food inspections and had filtered the dataset, you could do something like `failed_inspections.value_counts().reset_index()` to see the business with the most failed inspections.
 
 If you have a numeric column, you should try:
 
@@ -86,6 +88,8 @@ If you have a numeric column, you should try:
 * Make a basic chart (`my_data.NUMERIC_COLUMN_NAME.plot.bar()`)
 
 If there are other techniques we covered in class that could apply to your analysis, try them out!
+
+#### Commit your code
 
 When you're done, go back to your terminal and stop Jupyter.
 
