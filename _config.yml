@@ -18,7 +18,7 @@ description: Mondays, 6:00 - 8:50 PM ET, April 3<sup>rd</sup> - June 5<sup>th</s
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: digitalframeworks-spring2017.github.io # the GitHub repo name for your project
-github_username: digitalframeworks-spring2017
+github_username: shanzibnu
 
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
