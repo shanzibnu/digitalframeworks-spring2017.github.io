@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Sample post"
-date:   2016-09-04
-author: David Eads
+title:  "Critique of a data graphic"
+date:   2017-06-06
+author: Jasmine Minor
 image: lessons/software-freedom.jpg
 image_credit: Jonathan Gibby
 ---
